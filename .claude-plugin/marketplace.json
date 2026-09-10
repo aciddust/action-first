@@ -1,0 +1,17 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "action-first",
+  "description": "Shape Claude Code output for an ADHD reader. Action-first, numbered steps, no tangents.",
+  "owner": {
+    "name": "aciddust",
+    "url": "https://github.com/aciddust"
+  },
+  "plugins": [
+    {
+      "name": "action-first",
+      "description": "Action-first, ADHD-friendly output shaping for Claude Code.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
